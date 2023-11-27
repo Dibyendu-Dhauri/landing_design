@@ -1,0 +1,849 @@
+Folder PATH listing
+Volume serial number is 88A3-4950
+C:.
+ÃÄÄÄnode_modules
+³   ÃÄÄÄ.bin
+³   ÃÄÄÄ.vite
+³   ³   ÀÄÄÄdeps
+³   ÃÄÄÄ@aashutoshrathi
+³   ³   ÀÄÄÄword-wrap
+³   ÃÄÄÄ@alloc
+³   ³   ÀÄÄÄquick-lru
+³   ÃÄÄÄ@ampproject
+³   ³   ÀÄÄÄremapping
+³   ³       ÀÄÄÄdist
+³   ³           ÀÄÄÄtypes
+³   ÃÄÄÄ@babel
+³   ³   ÃÄÄÄcode-frame
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄcompat-data
+³   ³   ³   ÀÄÄÄdata
+³   ³   ÃÄÄÄcore
+³   ³   ³   ÃÄÄÄlib
+³   ³   ³   ³   ÃÄÄÄconfig
+³   ³   ³   ³   ³   ÃÄÄÄfiles
+³   ³   ³   ³   ³   ÃÄÄÄhelpers
+³   ³   ³   ³   ³   ÀÄÄÄvalidation
+³   ³   ³   ³   ÃÄÄÄerrors
+³   ³   ³   ³   ÃÄÄÄgensync-utils
+³   ³   ³   ³   ÃÄÄÄparser
+³   ³   ³   ³   ³   ÀÄÄÄutil
+³   ³   ³   ³   ÃÄÄÄtools
+³   ³   ³   ³   ÃÄÄÄtransformation
+³   ³   ³   ³   ³   ÃÄÄÄfile
+³   ³   ³   ³   ³   ÀÄÄÄutil
+³   ³   ³   ³   ÀÄÄÄvendor
+³   ³   ³   ÃÄÄÄnode_modules
+³   ³   ³   ³   ÃÄÄÄ.bin
+³   ³   ³   ³   ÀÄÄÄsemver
+³   ³   ³   ³       ÀÄÄÄbin
+³   ³   ³   ÀÄÄÄsrc
+³   ³   ³       ÀÄÄÄconfig
+³   ³   ³           ÀÄÄÄfiles
+³   ³   ÃÄÄÄgenerator
+³   ³   ³   ÀÄÄÄlib
+³   ³   ³       ÃÄÄÄgenerators
+³   ³   ³       ÀÄÄÄnode
+³   ³   ÃÄÄÄhelper-compilation-targets
+³   ³   ³   ÃÄÄÄlib
+³   ³   ³   ÀÄÄÄnode_modules
+³   ³   ³       ÃÄÄÄ.bin
+³   ³   ³       ÀÄÄÄsemver
+³   ³   ³           ÀÄÄÄbin
+³   ³   ÃÄÄÄhelper-environment-visitor
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄhelper-function-name
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄhelper-hoist-variables
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄhelper-module-imports
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄhelper-module-transforms
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄhelper-plugin-utils
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄhelper-simple-access
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄhelper-split-export-declaration
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄhelper-string-parser
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄhelper-validator-identifier
+³   ³   ³   ÃÄÄÄlib
+³   ³   ³   ÀÄÄÄscripts
+³   ³   ÃÄÄÄhelper-validator-option
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄhelpers
+³   ³   ³   ÃÄÄÄlib
+³   ³   ³   ³   ÀÄÄÄhelpers
+³   ³   ³   ÀÄÄÄscripts
+³   ³   ÃÄÄÄhighlight
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄparser
+³   ³   ³   ÃÄÄÄbin
+³   ³   ³   ÃÄÄÄlib
+³   ³   ³   ÀÄÄÄtypings
+³   ³   ÃÄÄÄplugin-transform-react-jsx-self
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄplugin-transform-react-jsx-source
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄtemplate
+³   ³   ³   ÀÄÄÄlib
+³   ³   ÃÄÄÄtraverse
+³   ³   ³   ÀÄÄÄlib
+³   ³   ³       ÃÄÄÄpath
+³   ³   ³       ³   ÃÄÄÄinference
+³   ³   ³       ³   ÀÄÄÄlib
+³   ³   ³       ÀÄÄÄscope
+³   ³   ³           ÀÄÄÄlib
+³   ³   ÀÄÄÄtypes
+³   ³       ÀÄÄÄlib
+³   ³           ÃÄÄÄasserts
+³   ³           ³   ÀÄÄÄgenerated
+³   ³           ÃÄÄÄast-types
+³   ³           ³   ÀÄÄÄgenerated
+³   ³           ÃÄÄÄbuilders
+³   ³           ³   ÃÄÄÄflow
+³   ³           ³   ÃÄÄÄgenerated
+³   ³           ³   ÃÄÄÄreact
+³   ³           ³   ÀÄÄÄtypescript
+³   ³           ÃÄÄÄclone
+³   ³           ÃÄÄÄcomments
+³   ³           ÃÄÄÄconstants
+³   ³           ³   ÀÄÄÄgenerated
+³   ³           ÃÄÄÄconverters
+³   ³           ÃÄÄÄdefinitions
+³   ³           ÃÄÄÄmodifications
+³   ³           ³   ÃÄÄÄflow
+³   ³           ³   ÀÄÄÄtypescript
+³   ³           ÃÄÄÄretrievers
+³   ³           ÃÄÄÄtraverse
+³   ³           ÃÄÄÄutils
+³   ³           ³   ÀÄÄÄreact
+³   ³           ÀÄÄÄvalidators
+³   ³               ÃÄÄÄgenerated
+³   ³               ÀÄÄÄreact
+³   ÃÄÄÄ@esbuild
+³   ³   ÀÄÄÄwin32-x64
+³   ÃÄÄÄ@eslint
+³   ³   ÃÄÄÄeslintrc
+³   ³   ³   ÃÄÄÄconf
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ÃÄÄÄlib
+³   ³   ³   ³   ÃÄÄÄconfig-array
+³   ³   ³   ³   ÀÄÄÄshared
+³   ³   ³   ÀÄÄÄnode_modules
+³   ³   ³       ÀÄÄÄglobals
+³   ³   ÀÄÄÄjs
+³   ³       ÀÄÄÄsrc
+³   ³           ÀÄÄÄconfigs
+³   ÃÄÄÄ@eslint-community
+³   ³   ÃÄÄÄeslint-utils
+³   ³   ÀÄÄÄregexpp
+³   ÃÄÄÄ@humanwhocodes
+³   ³   ÃÄÄÄconfig-array
+³   ³   ÃÄÄÄmodule-importer
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ÀÄÄÄsrc
+³   ³   ÀÄÄÄobject-schema
+³   ³       ÃÄÄÄ.github
+³   ³       ³   ÀÄÄÄworkflows
+³   ³       ÃÄÄÄsrc
+³   ³       ÀÄÄÄtests
+³   ÃÄÄÄ@jridgewell
+³   ³   ÃÄÄÄgen-mapping
+³   ³   ³   ÀÄÄÄdist
+³   ³   ³       ÀÄÄÄtypes
+³   ³   ÃÄÄÄresolve-uri
+³   ³   ³   ÀÄÄÄdist
+³   ³   ³       ÀÄÄÄtypes
+³   ³   ÃÄÄÄset-array
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ³   ÀÄÄÄtypes
+³   ³   ³   ÀÄÄÄsrc
+³   ³   ÃÄÄÄsourcemap-codec
+³   ³   ³   ÀÄÄÄdist
+³   ³   ³       ÀÄÄÄtypes
+³   ³   ÀÄÄÄtrace-mapping
+³   ³       ÀÄÄÄdist
+³   ³           ÀÄÄÄtypes
+³   ÃÄÄÄ@nodelib
+³   ³   ÃÄÄÄfs.scandir
+³   ³   ³   ÀÄÄÄout
+³   ³   ³       ÃÄÄÄadapters
+³   ³   ³       ÃÄÄÄproviders
+³   ³   ³       ÃÄÄÄtypes
+³   ³   ³       ÀÄÄÄutils
+³   ³   ÃÄÄÄfs.stat
+³   ³   ³   ÀÄÄÄout
+³   ³   ³       ÃÄÄÄadapters
+³   ³   ³       ÃÄÄÄproviders
+³   ³   ³       ÀÄÄÄtypes
+³   ³   ÀÄÄÄfs.walk
+³   ³       ÀÄÄÄout
+³   ³           ÃÄÄÄproviders
+³   ³           ÃÄÄÄreaders
+³   ³           ÀÄÄÄtypes
+³   ÃÄÄÄ@rollup
+³   ³   ÀÄÄÄrollup-win32-x64-msvc
+³   ÃÄÄÄ@types
+³   ³   ÃÄÄÄbabel__core
+³   ³   ÃÄÄÄbabel__generator
+³   ³   ÃÄÄÄbabel__template
+³   ³   ÃÄÄÄbabel__traverse
+³   ³   ÃÄÄÄjson-schema
+³   ³   ÃÄÄÄprop-types
+³   ³   ÃÄÄÄreact
+³   ³   ³   ÀÄÄÄts5.0
+³   ³   ÃÄÄÄreact-dom
+³   ³   ³   ÀÄÄÄtest-utils
+³   ³   ÃÄÄÄscheduler
+³   ³   ÀÄÄÄsemver
+³   ³       ÃÄÄÄclasses
+³   ³       ÃÄÄÄfunctions
+³   ³       ÃÄÄÄinternals
+³   ³       ÀÄÄÄranges
+³   ÃÄÄÄ@typescript-eslint
+³   ³   ÃÄÄÄeslint-plugin
+³   ³   ³   ÃÄÄÄdist
+³   ³   ³   ³   ÃÄÄÄconfigs
+³   ³   ³   ³   ÃÄÄÄrules
+³   ³   ³   ³   ³   ÃÄÄÄenum-utils
+³   ³   ³   ³   ³   ÃÄÄÄnaming-convention-utils
+³   ³   ³   ³   ³   ÀÄÄÄprefer-optional-chain-utils
+³   ³   ³   ³   ÀÄÄÄutil
+³   ³   ³   ÀÄÄÄdocs
+³   ³   ³       ÀÄÄÄrules
+³   ³   ÃÄÄÄparser
+³   ³   ³   ÀÄÄÄdist
+³   ³   ÃÄÄÄscope-manager
+³   ³   ³   ÀÄÄÄdist
+³   ³   ³       ÃÄÄÄdefinition
+³   ³   ³       ÃÄÄÄlib
+³   ³   ³       ÃÄÄÄreferencer
+³   ³   ³       ÃÄÄÄscope
+³   ³   ³       ÀÄÄÄvariable
+³   ³   ÃÄÄÄtype-utils
+³   ³   ³   ÀÄÄÄdist
+³   ³   ÃÄÄÄtypes
+³   ³   ³   ÀÄÄÄdist
+³   ³   ³       ÀÄÄÄgenerated
+³   ³   ÃÄÄÄtypescript-estree
+³   ³   ³   ÀÄÄÄdist
+³   ³   ³       ÃÄÄÄcreate-program
+³   ³   ³       ÃÄÄÄjsx
+³   ³   ³       ÃÄÄÄparseSettings
+³   ³   ³       ÀÄÄÄts-estree
+³   ³   ÃÄÄÄutils
+³   ³   ³   ÀÄÄÄdist
+³   ³   ³       ÃÄÄÄast-utils
+³   ³   ³       ³   ÀÄÄÄeslint-utils
+³   ³   ³       ÃÄÄÄeslint-utils
+³   ³   ³       ÃÄÄÄts-eslint
+³   ³   ³       ÀÄÄÄts-utils
+³   ³   ÀÄÄÄvisitor-keys
+³   ³       ÀÄÄÄdist
+³   ÃÄÄÄ@ungap
+³   ³   ÀÄÄÄstructured-clone
+³   ³       ÃÄÄÄ.github
+³   ³       ³   ÀÄÄÄworkflows
+³   ³       ÃÄÄÄcjs
+³   ³       ÀÄÄÄesm
+³   ÃÄÄÄ@vitejs
+³   ³   ÀÄÄÄplugin-react
+³   ³       ÀÄÄÄdist
+³   ÃÄÄÄacorn
+³   ³   ÃÄÄÄbin
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄacorn-jsx
+³   ÃÄÄÄajv
+³   ³   ÃÄÄÄdist
+³   ³   ÃÄÄÄlib
+³   ³   ³   ÃÄÄÄcompile
+³   ³   ³   ÃÄÄÄdot
+³   ³   ³   ÃÄÄÄdotjs
+³   ³   ³   ÀÄÄÄrefs
+³   ³   ÀÄÄÄscripts
+³   ÃÄÄÄansi-regex
+³   ÃÄÄÄansi-styles
+³   ÃÄÄÄany-promise
+³   ³   ÀÄÄÄregister
+³   ÃÄÄÄanymatch
+³   ÃÄÄÄarg
+³   ÃÄÄÄargparse
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄarray-union
+³   ÃÄÄÄautoprefixer
+³   ³   ÃÄÄÄbin
+³   ³   ÃÄÄÄdata
+³   ³   ÀÄÄÄlib
+³   ³       ÀÄÄÄhacks
+³   ÃÄÄÄbalanced-match
+³   ³   ÀÄÄÄ.github
+³   ÃÄÄÄbinary-extensions
+³   ÃÄÄÄbrace-expansion
+³   ÃÄÄÄbraces
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄbrowserslist
+³   ÃÄÄÄcallsites
+³   ÃÄÄÄcamelcase-css
+³   ÃÄÄÄcaniuse-lite
+³   ³   ÃÄÄÄdata
+³   ³   ³   ÃÄÄÄfeatures
+³   ³   ³   ÀÄÄÄregions
+³   ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄlib
+³   ³       ÀÄÄÄunpacker
+³   ÃÄÄÄchalk
+³   ³   ÀÄÄÄtypes
+³   ÃÄÄÄchokidar
+³   ³   ÃÄÄÄlib
+³   ³   ÃÄÄÄnode_modules
+³   ³   ³   ÀÄÄÄglob-parent
+³   ³   ÀÄÄÄtypes
+³   ÃÄÄÄcolor-convert
+³   ÃÄÄÄcolor-name
+³   ÃÄÄÄcommander
+³   ³   ÀÄÄÄtypings
+³   ÃÄÄÄconcat-map
+³   ³   ÃÄÄÄexample
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄconvert-source-map
+³   ÃÄÄÄcross-spawn
+³   ³   ÀÄÄÄlib
+³   ³       ÀÄÄÄutil
+³   ÃÄÄÄcss-selector-tokenizer
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄcssesc
+³   ³   ÃÄÄÄbin
+³   ³   ÀÄÄÄman
+³   ÃÄÄÄcsstype
+³   ÃÄÄÄculori
+³   ³   ÃÄÄÄbundled
+³   ³   ÀÄÄÄsrc
+³   ³       ÃÄÄÄa98
+³   ³       ÃÄÄÄbootstrap
+³   ³       ÃÄÄÄcolors
+³   ³       ÃÄÄÄcubehelix
+³   ³       ÃÄÄÄdlab
+³   ³       ÃÄÄÄdlch
+³   ³       ÃÄÄÄeasing
+³   ³       ÃÄÄÄfixup
+³   ³       ÃÄÄÄhsi
+³   ³       ÃÄÄÄhsl
+³   ³       ÃÄÄÄhsv
+³   ³       ÃÄÄÄhwb
+³   ³       ÃÄÄÄinterpolate
+³   ³       ÃÄÄÄjab
+³   ³       ÃÄÄÄjch
+³   ³       ÃÄÄÄlab
+³   ³       ÃÄÄÄlab65
+³   ³       ÃÄÄÄlch
+³   ³       ÃÄÄÄlch65
+³   ³       ÃÄÄÄlchuv
+³   ³       ÃÄÄÄlrgb
+³   ³       ÃÄÄÄluv
+³   ³       ÃÄÄÄokhsl
+³   ³       ÃÄÄÄokhsv
+³   ³       ÃÄÄÄoklab
+³   ³       ÃÄÄÄoklch
+³   ³       ÃÄÄÄp3
+³   ³       ÃÄÄÄprophoto
+³   ³       ÃÄÄÄrec2020
+³   ³       ÃÄÄÄrgb
+³   ³       ÃÄÄÄutil
+³   ³       ÃÄÄÄxyb
+³   ³       ÃÄÄÄxyz50
+³   ³       ÃÄÄÄxyz65
+³   ³       ÀÄÄÄyiq
+³   ÃÄÄÄdaisyui
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄsrc
+³   ³       ÃÄÄÄlib
+³   ³       ÀÄÄÄtheming
+³   ÃÄÄÄdebug
+³   ³   ÀÄÄÄsrc
+³   ÃÄÄÄdeep-is
+³   ³   ÃÄÄÄexample
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄdidyoumean
+³   ÃÄÄÄdir-glob
+³   ÃÄÄÄdlv
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄdoctrine
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄelectron-to-chromium
+³   ÃÄÄÄesbuild
+³   ³   ÃÄÄÄbin
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄescalade
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄsync
+³   ÃÄÄÄescape-string-regexp
+³   ÃÄÄÄeslint
+³   ³   ÃÄÄÄbin
+³   ³   ÃÄÄÄconf
+³   ³   ÃÄÄÄlib
+³   ³   ³   ÃÄÄÄcli-engine
+³   ³   ³   ³   ÀÄÄÄformatters
+³   ³   ³   ÃÄÄÄconfig
+³   ³   ³   ÃÄÄÄeslint
+³   ³   ³   ÃÄÄÄlinter
+³   ³   ³   ³   ÀÄÄÄcode-path-analysis
+³   ³   ³   ÃÄÄÄrule-tester
+³   ³   ³   ÃÄÄÄrules
+³   ³   ³   ³   ÀÄÄÄutils
+³   ³   ³   ³       ÃÄÄÄpatterns
+³   ³   ³   ³       ÀÄÄÄunicode
+³   ³   ³   ÃÄÄÄshared
+³   ³   ³   ÀÄÄÄsource-code
+³   ³   ³       ÀÄÄÄtoken-store
+³   ³   ÃÄÄÄmessages
+³   ³   ÀÄÄÄnode_modules
+³   ³       ÃÄÄÄansi-styles
+³   ³       ÃÄÄÄchalk
+³   ³       ³   ÀÄÄÄsource
+³   ³       ÃÄÄÄcolor-convert
+³   ³       ÃÄÄÄcolor-name
+³   ³       ÃÄÄÄescape-string-regexp
+³   ³       ÃÄÄÄglobals
+³   ³       ÃÄÄÄhas-flag
+³   ³       ÀÄÄÄsupports-color
+³   ÃÄÄÄeslint-plugin-react-hooks
+³   ³   ÀÄÄÄcjs
+³   ÃÄÄÄeslint-plugin-react-refresh
+³   ÃÄÄÄeslint-scope
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄeslint-visitor-keys
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄespree
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄesquery
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄesrecurse
+³   ÃÄÄÄestraverse
+³   ÃÄÄÄesutils
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄfast-deep-equal
+³   ³   ÀÄÄÄes6
+³   ÃÄÄÄfast-glob
+³   ³   ÃÄÄÄnode_modules
+³   ³   ³   ÀÄÄÄglob-parent
+³   ³   ÀÄÄÄout
+³   ³       ÃÄÄÄmanagers
+³   ³       ÃÄÄÄproviders
+³   ³       ³   ÃÄÄÄfilters
+³   ³       ³   ÃÄÄÄmatchers
+³   ³       ³   ÀÄÄÄtransformers
+³   ³       ÃÄÄÄreaders
+³   ³       ÃÄÄÄtypes
+³   ³       ÀÄÄÄutils
+³   ÃÄÄÄfast-json-stable-stringify
+³   ³   ÃÄÄÄ.github
+³   ³   ÃÄÄÄbenchmark
+³   ³   ÃÄÄÄexample
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄfast-levenshtein
+³   ÃÄÄÄfastparse
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄfastq
+³   ³   ÃÄÄÄ.github
+³   ³   ³   ÀÄÄÄworkflows
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄfile-entry-cache
+³   ÃÄÄÄfill-range
+³   ÃÄÄÄfind-up
+³   ÃÄÄÄflat-cache
+³   ³   ÀÄÄÄsrc
+³   ÃÄÄÄflatted
+³   ³   ÃÄÄÄcjs
+³   ³   ÃÄÄÄesm
+³   ³   ÃÄÄÄphp
+³   ³   ÀÄÄÄpython
+³   ³       ÀÄÄÄ__pycache__
+³   ÃÄÄÄfraction.js
+³   ÃÄÄÄfs.realpath
+³   ÃÄÄÄfunction-bind
+³   ³   ÃÄÄÄ.github
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄgensync
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄglob
+³   ÃÄÄÄglob-parent
+³   ÃÄÄÄglobals
+³   ÃÄÄÄglobby
+³   ÃÄÄÄgraphemer
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄhas-flag
+³   ÃÄÄÄhasown
+³   ³   ÀÄÄÄ.github
+³   ÃÄÄÄignore
+³   ÃÄÄÄimport-fresh
+³   ÃÄÄÄimurmurhash
+³   ÃÄÄÄinflight
+³   ÃÄÄÄinherits
+³   ÃÄÄÄis-binary-path
+³   ÃÄÄÄis-core-module
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄis-extglob
+³   ÃÄÄÄis-glob
+³   ÃÄÄÄis-number
+³   ÃÄÄÄis-path-inside
+³   ÃÄÄÄisexe
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄjiti
+³   ³   ÃÄÄÄbin
+³   ³   ÃÄÄÄdist
+³   ³   ³   ÀÄÄÄplugins
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄjs-tokens
+³   ÃÄÄÄjs-yaml
+³   ³   ÃÄÄÄbin
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄlib
+³   ³       ÃÄÄÄschema
+³   ³       ÀÄÄÄtype
+³   ÃÄÄÄjsesc
+³   ³   ÃÄÄÄbin
+³   ³   ÀÄÄÄman
+³   ÃÄÄÄjson-buffer
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄjson-schema-traverse
+³   ³   ÀÄÄÄspec
+³   ³       ÀÄÄÄfixtures
+³   ÃÄÄÄjson-stable-stringify-without-jsonify
+³   ³   ÃÄÄÄexample
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄjson5
+³   ³   ÃÄÄÄdist
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄkeyv
+³   ³   ÀÄÄÄsrc
+³   ÃÄÄÄlevn
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄlilconfig
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄlines-and-columns
+³   ³   ÀÄÄÄbuild
+³   ÃÄÄÄlocate-path
+³   ÃÄÄÄlodash.merge
+³   ÃÄÄÄloose-envify
+³   ÃÄÄÄlru-cache
+³   ÃÄÄÄmerge2
+³   ÃÄÄÄmicromatch
+³   ÃÄÄÄminimatch
+³   ÃÄÄÄms
+³   ÃÄÄÄmz
+³   ÃÄÄÄnanoid
+³   ³   ÃÄÄÄasync
+³   ³   ÃÄÄÄbin
+³   ³   ÃÄÄÄnon-secure
+³   ³   ÀÄÄÄurl-alphabet
+³   ÃÄÄÄnatural-compare
+³   ÃÄÄÄnode-releases
+³   ³   ÀÄÄÄdata
+³   ³       ÃÄÄÄprocessed
+³   ³       ÀÄÄÄrelease-schedule
+³   ÃÄÄÄnormalize-path
+³   ÃÄÄÄnormalize-range
+³   ÃÄÄÄobject-assign
+³   ÃÄÄÄobject-hash
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄonce
+³   ÃÄÄÄoptionator
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄp-limit
+³   ÃÄÄÄp-locate
+³   ÃÄÄÄparent-module
+³   ÃÄÄÄpath-exists
+³   ÃÄÄÄpath-is-absolute
+³   ÃÄÄÄpath-key
+³   ÃÄÄÄpath-parse
+³   ÃÄÄÄpath-type
+³   ÃÄÄÄpicocolors
+³   ÃÄÄÄpicomatch
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄpify
+³   ÃÄÄÄpirates
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄpostcss
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄpostcss-import
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄpostcss-js
+³   ÃÄÄÄpostcss-load-config
+³   ³   ÃÄÄÄnode_modules
+³   ³   ³   ÀÄÄÄlilconfig
+³   ³   ³       ÀÄÄÄdist
+³   ³   ÀÄÄÄsrc
+³   ÃÄÄÄpostcss-nested
+³   ÃÄÄÄpostcss-selector-parser
+³   ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄselectors
+³   ³       ÀÄÄÄutil
+³   ÃÄÄÄpostcss-value-parser
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄprelude-ls
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄpunycode
+³   ÃÄÄÄqueue-microtask
+³   ÃÄÄÄreact
+³   ³   ÃÄÄÄcjs
+³   ³   ÀÄÄÄumd
+³   ÃÄÄÄreact-dom
+³   ³   ÃÄÄÄcjs
+³   ³   ÀÄÄÄumd
+³   ÃÄÄÄreact-refresh
+³   ³   ÀÄÄÄcjs
+³   ÃÄÄÄread-cache
+³   ÃÄÄÄreaddirp
+³   ÃÄÄÄresolve
+³   ³   ÃÄÄÄ.github
+³   ³   ÃÄÄÄbin
+³   ³   ÃÄÄÄexample
+³   ³   ÃÄÄÄlib
+³   ³   ÀÄÄÄtest
+³   ³       ÃÄÄÄdotdot
+³   ³       ³   ÀÄÄÄabc
+³   ³       ÃÄÄÄmodule_dir
+³   ³       ³   ÃÄÄÄxmodules
+³   ³       ³   ³   ÀÄÄÄaaa
+³   ³       ³   ÃÄÄÄymodules
+³   ³       ³   ³   ÀÄÄÄaaa
+³   ³       ³   ÀÄÄÄzmodules
+³   ³       ³       ÀÄÄÄbbb
+³   ³       ÃÄÄÄnode_path
+³   ³       ³   ÃÄÄÄx
+³   ³       ³   ³   ÃÄÄÄaaa
+³   ³       ³   ³   ÀÄÄÄccc
+³   ³       ³   ÀÄÄÄy
+³   ³       ³       ÃÄÄÄbbb
+³   ³       ³       ÀÄÄÄccc
+³   ³       ÃÄÄÄpathfilter
+³   ³       ³   ÀÄÄÄdeep_ref
+³   ³       ÃÄÄÄprecedence
+³   ³       ³   ÃÄÄÄaaa
+³   ³       ³   ÀÄÄÄbbb
+³   ³       ÃÄÄÄresolver
+³   ³       ³   ÃÄÄÄbaz
+³   ³       ³   ÃÄÄÄbrowser_field
+³   ³       ³   ÃÄÄÄdot_main
+³   ³       ³   ÃÄÄÄdot_slash_main
+³   ³       ³   ÃÄÄÄfalse_main
+³   ³       ³   ÃÄÄÄincorrect_main
+³   ³       ³   ÃÄÄÄinvalid_main
+³   ³       ³   ÃÄÄÄmultirepo
+³   ³       ³   ³   ÀÄÄÄpackages
+³   ³       ³   ³       ÃÄÄÄpackage-a
+³   ³       ³   ³       ÀÄÄÄpackage-b
+³   ³       ³   ÃÄÄÄnested_symlinks
+³   ³       ³   ³   ÀÄÄÄmylib
+³   ³       ³   ÃÄÄÄother_path
+³   ³       ³   ³   ÀÄÄÄlib
+³   ³       ³   ÃÄÄÄquux
+³   ³       ³   ³   ÀÄÄÄfoo
+³   ³       ³   ÃÄÄÄsame_names
+³   ³       ³   ³   ÀÄÄÄfoo
+³   ³       ³   ÃÄÄÄsymlinked
+³   ³       ³   ³   ÃÄÄÄpackage
+³   ³       ³   ³   ÀÄÄÄ_
+³   ³       ³   ³       ÃÄÄÄnode_modules
+³   ³       ³   ³       ÀÄÄÄsymlink_target
+³   ³       ³   ÀÄÄÄwithout_basedir
+³   ³       ÀÄÄÄshadowed_core
+³   ³           ÀÄÄÄnode_modules
+³   ³               ÀÄÄÄutil
+³   ÃÄÄÄresolve-from
+³   ÃÄÄÄreusify
+³   ³   ÀÄÄÄbenchmarks
+³   ÃÄÄÄrimraf
+³   ÃÄÄÄrollup
+³   ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄbin
+³   ³       ÃÄÄÄes
+³   ³       ³   ÀÄÄÄshared
+³   ³       ÀÄÄÄshared
+³   ÃÄÄÄrun-parallel
+³   ÃÄÄÄscheduler
+³   ³   ÃÄÄÄcjs
+³   ³   ÀÄÄÄumd
+³   ÃÄÄÄsemver
+³   ³   ÃÄÄÄbin
+³   ³   ÃÄÄÄclasses
+³   ³   ÃÄÄÄfunctions
+³   ³   ÃÄÄÄinternal
+³   ³   ÃÄÄÄnode_modules
+³   ³   ³   ÃÄÄÄlru-cache
+³   ³   ³   ÀÄÄÄyallist
+³   ³   ÀÄÄÄranges
+³   ÃÄÄÄshebang-command
+³   ÃÄÄÄshebang-regex
+³   ÃÄÄÄslash
+³   ÃÄÄÄsource-map-js
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄstrip-ansi
+³   ÃÄÄÄstrip-json-comments
+³   ÃÄÄÄsucrase
+³   ³   ÃÄÄÄbin
+³   ³   ÃÄÄÄdist
+³   ³   ³   ÃÄÄÄesm
+³   ³   ³   ³   ÃÄÄÄparser
+³   ³   ³   ³   ³   ÃÄÄÄplugins
+³   ³   ³   ³   ³   ³   ÀÄÄÄjsx
+³   ³   ³   ³   ³   ÃÄÄÄtokenizer
+³   ³   ³   ³   ³   ÃÄÄÄtraverser
+³   ³   ³   ³   ³   ÀÄÄÄutil
+³   ³   ³   ³   ÃÄÄÄtransformers
+³   ³   ³   ³   ÀÄÄÄutil
+³   ³   ³   ÃÄÄÄparser
+³   ³   ³   ³   ÃÄÄÄplugins
+³   ³   ³   ³   ³   ÀÄÄÄjsx
+³   ³   ³   ³   ÃÄÄÄtokenizer
+³   ³   ³   ³   ÃÄÄÄtraverser
+³   ³   ³   ³   ÀÄÄÄutil
+³   ³   ³   ÃÄÄÄtransformers
+³   ³   ³   ÃÄÄÄtypes
+³   ³   ³   ³   ÃÄÄÄparser
+³   ³   ³   ³   ³   ÃÄÄÄplugins
+³   ³   ³   ³   ³   ³   ÀÄÄÄjsx
+³   ³   ³   ³   ³   ÃÄÄÄtokenizer
+³   ³   ³   ³   ³   ÃÄÄÄtraverser
+³   ³   ³   ³   ³   ÀÄÄÄutil
+³   ³   ³   ³   ÃÄÄÄtransformers
+³   ³   ³   ³   ÀÄÄÄutil
+³   ³   ³   ÀÄÄÄutil
+³   ³   ÃÄÄÄnode_modules
+³   ³   ³   ÀÄÄÄglob
+³   ³   ÃÄÄÄregister
+³   ³   ÀÄÄÄts-node-plugin
+³   ÃÄÄÄsupports-color
+³   ÃÄÄÄsupports-preserve-symlinks-flag
+³   ³   ÃÄÄÄ.github
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄtailwindcss
+³   ³   ÃÄÄÄlib
+³   ³   ³   ÃÄÄÄcli
+³   ³   ³   ³   ÃÄÄÄbuild
+³   ³   ³   ³   ÃÄÄÄhelp
+³   ³   ³   ³   ÀÄÄÄinit
+³   ³   ³   ÃÄÄÄcss
+³   ³   ³   ÃÄÄÄlib
+³   ³   ³   ÃÄÄÄoxide
+³   ³   ³   ³   ÀÄÄÄcli
+³   ³   ³   ³       ÃÄÄÄbuild
+³   ³   ³   ³       ÃÄÄÄhelp
+³   ³   ³   ³       ÀÄÄÄinit
+³   ³   ³   ÃÄÄÄpostcss-plugins
+³   ³   ³   ³   ÀÄÄÄnesting
+³   ³   ³   ÃÄÄÄpublic
+³   ³   ³   ÃÄÄÄutil
+³   ³   ³   ÀÄÄÄvalue-parser
+³   ³   ÃÄÄÄnesting
+³   ³   ÃÄÄÄpeers
+³   ³   ÃÄÄÄscripts
+³   ³   ÃÄÄÄsrc
+³   ³   ³   ÃÄÄÄcli
+³   ³   ³   ³   ÃÄÄÄbuild
+³   ³   ³   ³   ÃÄÄÄhelp
+³   ³   ³   ³   ÀÄÄÄinit
+³   ³   ³   ÃÄÄÄcss
+³   ³   ³   ÃÄÄÄlib
+³   ³   ³   ÃÄÄÄoxide
+³   ³   ³   ³   ÀÄÄÄcli
+³   ³   ³   ³       ÃÄÄÄbuild
+³   ³   ³   ³       ÃÄÄÄhelp
+³   ³   ³   ³       ÀÄÄÄinit
+³   ³   ³   ÃÄÄÄpostcss-plugins
+³   ³   ³   ³   ÀÄÄÄnesting
+³   ³   ³   ÃÄÄÄpublic
+³   ³   ³   ÃÄÄÄutil
+³   ³   ³   ÀÄÄÄvalue-parser
+³   ³   ÃÄÄÄstubs
+³   ³   ÀÄÄÄtypes
+³   ³       ÀÄÄÄgenerated
+³   ÃÄÄÄtext-table
+³   ³   ÃÄÄÄexample
+³   ³   ÀÄÄÄtest
+³   ÃÄÄÄthenify
+³   ÃÄÄÄthenify-all
+³   ÃÄÄÄto-fast-properties
+³   ÃÄÄÄto-regex-range
+³   ÃÄÄÄts-api-utils
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄts-interface-checker
+³   ³   ÀÄÄÄdist
+³   ÃÄÄÄtype-check
+³   ³   ÀÄÄÄlib
+³   ÃÄÄÄtype-fest
+³   ³   ÃÄÄÄsource
+³   ³   ÀÄÄÄts41
+³   ÃÄÄÄtypescript
+³   ³   ÃÄÄÄbin
+³   ³   ÀÄÄÄlib
+³   ³       ÃÄÄÄcs
+³   ³       ÃÄÄÄde
+³   ³       ÃÄÄÄes
+³   ³       ÃÄÄÄfr
+³   ³       ÃÄÄÄit
+³   ³       ÃÄÄÄja
+³   ³       ÃÄÄÄko
+³   ³       ÃÄÄÄpl
+³   ³       ÃÄÄÄpt-br
+³   ³       ÃÄÄÄru
+³   ³       ÃÄÄÄtr
+³   ³       ÃÄÄÄzh-cn
+³   ³       ÀÄÄÄzh-tw
+³   ÃÄÄÄupdate-browserslist-db
+³   ÃÄÄÄuri-js
+³   ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄes5
+³   ³       ÀÄÄÄesnext
+³   ³           ÀÄÄÄschemes
+³   ÃÄÄÄutil-deprecate
+³   ÃÄÄÄvite
+³   ³   ÃÄÄÄbin
+³   ³   ÃÄÄÄdist
+³   ³   ³   ÃÄÄÄclient
+³   ³   ³   ÃÄÄÄnode
+³   ³   ³   ³   ÀÄÄÄchunks
+³   ³   ³   ÀÄÄÄnode-cjs
+³   ³   ÀÄÄÄtypes
+³   ÃÄÄÄwhich
+³   ³   ÀÄÄÄbin
+³   ÃÄÄÄwrappy
+³   ÃÄÄÄyallist
+³   ÃÄÄÄyaml
+³   ³   ÃÄÄÄbrowser
+³   ³   ³   ÀÄÄÄdist
+³   ³   ³       ÃÄÄÄcompose
+³   ³   ³       ÃÄÄÄdoc
+³   ³   ³       ÃÄÄÄnodes
+³   ³   ³       ÃÄÄÄnode_modules
+³   ³   ³       ³   ÀÄÄÄtslib
+³   ³   ³       ÃÄÄÄparse
+³   ³   ³       ÃÄÄÄschema
+³   ³   ³       ³   ÃÄÄÄcommon
+³   ³   ³       ³   ÃÄÄÄcore
+³   ³   ³       ³   ÃÄÄÄjson
+³   ³   ³       ³   ÀÄÄÄyaml-1.1
+³   ³   ³       ÀÄÄÄstringify
+³   ³   ÀÄÄÄdist
+³   ³       ÃÄÄÄcompose
+³   ³       ÃÄÄÄdoc
+³   ³       ÃÄÄÄnodes
+³   ³       ÃÄÄÄparse
+³   ³       ÃÄÄÄschema
+³   ³       ³   ÃÄÄÄcommon
+³   ³       ³   ÃÄÄÄcore
+³   ³       ³   ÃÄÄÄjson
+³   ³       ³   ÀÄÄÄyaml-1.1
+³   ³       ÀÄÄÄstringify
+³   ÀÄÄÄyocto-queue
+ÃÄÄÄpublic
+ÀÄÄÄsrc
+    ÃÄÄÄassets
+    ÃÄÄÄcomponents
+    ÀÄÄÄmodel
